@@ -1,0 +1,37 @@
+<html>
+
+<head>
+
+<title> QL's Papers </title>
+
+</head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<body>
+
+ 
+
+<!------------------------------------------------------------>
+
+<hr>
+
+<p><h2><b><a href="index.html#!jiaoxuezawen.md"> 教学杂文</a></b></h1>
+
+
+<hr>
+
+<!------------------------------------------------------------>
+
+<hr>
+
+<p><h2><b><a href="index.html#!sikaoti.md">思考题</a></b></h1>
+
+
+<hr>
+
+<!------------------------------------------------------------>
+
+</body>
+
+</html>
